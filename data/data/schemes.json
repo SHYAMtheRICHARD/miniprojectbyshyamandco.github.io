@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 60,
+    "category": "farmer"
+  },
+  {
+    "name": "Beti Bachao Beti Padhao",
+    "gender": "female",
+    "min_age": 0,
+    "max_age": 21,
+    "category": "child"
+  },
+  {
+    "name": "National Social Assistance Programme",
+    "gender": "any",
+    "min_age": 60,
+    "max_age": 100,
+    "category": "senior"
+  },
+  {
+    "name": "PM Ujjwala Yojana",
+    "gender": "female",
+    "min_age": 18,
+    "max_age": 60,
+    "category": "household"
+  }
+]
