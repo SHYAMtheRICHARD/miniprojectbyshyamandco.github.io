@@ -1,92 +1,52 @@
 [
-  {
-    "name": "UPSC Civil Services Exam",
-    "qualification": "graduate",
-    "min_age": 21,
-    "max_age": 32
-  },
-  {
-    "name": "SSC Combined Graduate Level (CGL)",
-    "qualification": "graduate",
-    "min_age": 18,
-    "max_age": 32
-  },
-  {
-    "name": "SSC CHSL (10+2)",
-    "qualification": "12th",
-    "min_age": 18,
-    "max_age": 27
-  },
-  {
-    "name": "RRB NTPC",
-    "qualification": "graduate",
-    "min_age": 18,
-    "max_age": 33
-  },
-  {
-    "name": "RRB Group D",
-    "qualification": "10th",
-    "min_age": 18,
-    "max_age": 33
-  },
-  {
-    "name": "IBPS Clerk",
-    "qualification": "graduate",
-    "min_age": 20,
-    "max_age": 28
-  },
-  {
-    "name": "IBPS PO",
-    "qualification": "graduate",
-    "min_age": 20,
-    "max_age": 30
-  },
-  {
-    "name": "RBI Assistant",
-    "qualification": "graduate",
-    "min_age": 20,
-    "max_age": 28
-  },
-  {
-    "name": "NDA Exam",
-    "qualification": "12th",
-    "min_age": 16,
-    "max_age": 19
-  },
-  {
-    "name": "CDS Exam",
-    "qualification": "graduate",
-    "min_age": 19,
-    "max_age": 25
-  },
-  {
-    "name": "State PSC Exams",
-    "qualification": "graduate",
-    "min_age": 21,
-    "max_age": 35
-  },
-  {
-    "name": "Indian Forest Services (IFS)",
-    "qualification": "graduate",
-    "min_age": 21,
-    "max_age": 32
-  },
-  {
-    "name": "GATE",
-    "qualification": "graduate",
-    "min_age": 21,
-    "max_age": 30
-  },
-  {
-    "name": "NEET UG",
-    "qualification": "12th",
-    "min_age": 17,
-    "max_age": 25
-  },
-  {
-    "name": "JEE Main",
-    "qualification": "12th",
-    "min_age": 17,
-    "max_age": 25
-  }
+  { "name": "UPSC Civil Services Exam", "qualification": "graduate", "min_age": 21, "max_age": 32 },
+  { "name": "SSC Combined Graduate Level (CGL)", "qualification": "graduate", "min_age": 18, "max_age": 32 },
+  { "name": "SSC CHSL (10+2)", "qualification": "12th", "min_age": 18, "max_age": 27 },
+  { "name": "RRB NTPC", "qualification": "graduate", "min_age": 18, "max_age": 33 },
+  { "name": "RRB Group D", "qualification": "10th", "min_age": 18, "max_age": 33 },
+  { "name": "IBPS Clerk", "qualification": "graduate", "min_age": 20, "max_age": 28 },
+  { "name": "IBPS PO", "qualification": "graduate", "min_age": 20, "max_age": 30 },
+  { "name": "RBI Assistant", "qualification": "graduate", "min_age": 20, "max_age": 28 },
+  { "name": "NDA Exam", "qualification": "12th", "min_age": 16, "max_age": 19 },
+  { "name": "CDS Exam", "qualification": "graduate", "min_age": 19, "max_age": 25 },
+  { "name": "State PSC Exams", "qualification": "graduate", "min_age": 21, "max_age": 35 },
+  { "name": "Indian Forest Services (IFS)", "qualification": "graduate", "min_age": 21, "max_age": 32 },
+  { "name": "GATE", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "NEET UG", "qualification": "12th", "min_age": 17, "max_age": 25 },
+  { "name": "JEE Main", "qualification": "12th", "min_age": 17, "max_age": 25 },
+  { "name": "JEE Advanced", "qualification": "12th", "min_age": 17, "max_age": 25 },
+  { "name": "AIIMS Entrance", "qualification": "12th", "min_age": 17, "max_age": 25 },
+  { "name": "CLAT", "qualification": "12th", "min_age": 17, "max_age": 22 },
+  { "name": "CA Foundation", "qualification": "12th", "min_age": 17, "max_age": 25 },
+  { "name": "CA Intermediate", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "CAT", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "XAT", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "SNAP", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "MAT", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "UGC NET", "qualification": "graduate", "min_age": 21, "max_age": 35 },
+  { "name": "SSC Stenographer", "qualification": "12th", "min_age": 18, "max_age": 30 },
+  { "name": "SSC MTS", "qualification": "10th", "min_age": 18, "max_age": 25 },
+  { "name": "LIC Assistant", "qualification": "graduate", "min_age": 18, "max_age": 30 },
+  { "name": "LIC AAO", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "NABARD Grade A", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "ESIC UDC", "qualification": "graduate", "min_age": 18, "max_age": 27 },
+  { "name": "SSC CPO", "qualification": "graduate", "min_age": 20, "max_age": 25 },
+  { "name": "DRDO Scientist", "qualification": "graduate", "min_age": 21, "max_age": 28 },
+  { "name": "ISRO Scientist", "qualification": "graduate", "min_age": 21, "max_age": 28 },
+  { "name": "BARC Exam", "qualification": "graduate", "min_age": 21, "max_age": 28 },
+  { "name": "ONGC Recruitment", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "SAIL Recruitment", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "BSNL JTO", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "Indian Coast Guard", "qualification": "12th", "min_age": 18, "max_age": 22 },
+  { "name": "Indian Navy SSR", "qualification": "12th", "min_age": 17, "max_age": 21 },
+  { "name": "Indian Air Force Group X", "qualification": "12th", "min_age": 17, "max_age": 21 },
+  { "name": "Indian Air Force Group Y", "qualification": "12th", "min_age": 17, "max_age": 21 },
+  { "name": "SSC JE", "qualification": "graduate", "min_age": 18, "max_age": 30 },
+  { "name": "UPSC Engineering Services", "qualification": "graduate", "min_age": 21, "max_age": 30 },
+  { "name": "UPSC CMS", "qualification": "graduate", "min_age": 21, "max_age": 32 },
+  { "name": "CSIR NET", "qualification": "graduate", "min_age": 21, "max_age": 35 },
+  { "name": "IIT JAM", "qualification": "graduate", "min_age": 20, "max_age": 30 },
+  { "name": "IGNOU OPENMAT", "qualification": "graduate", "min_age": 21, "max_age": 35 },
+  { "name": "SSC GD Constable", "qualification": "10th", "min_age": 18, "max_age": 23 },
+  { "name": "Delhi Police Constable", "qualification": "12th", "min_age": 18, "max_age": 25 }
 ]
