@@ -1,45 +1,92 @@
-
 [
   {
-    "name": "UPSC Civil Services",
+    "name": "UPSC Civil Services Exam",
+    "qualification": "graduate",
     "min_age": 21,
-    "max_age": 32,
-    "qualification": "graduate"
+    "max_age": 32
   },
   {
-    "name": "SSC CGL",
+    "name": "SSC Combined Graduate Level (CGL)",
+    "qualification": "graduate",
     "min_age": 18,
-    "max_age": 32,
-    "qualification": "graduate"
+    "max_age": 32
   },
   {
-    "name": "CTET",
+    "name": "SSC CHSL (10+2)",
+    "qualification": "12th",
     "min_age": 18,
-    "max_age": 35,
-    "qualification": "graduate"
+    "max_age": 27
   },
   {
-    "name": "Railway NTPC",
+    "name": "RRB NTPC",
+    "qualification": "graduate",
     "min_age": 18,
-    "max_age": 30,
-    "qualification": "12th"
+    "max_age": 33
   },
   {
-    "name": "Bank PO",
+    "name": "RRB Group D",
+    "qualification": "10th",
+    "min_age": 18,
+    "max_age": 33
+  },
+  {
+    "name": "IBPS Clerk",
+    "qualification": "graduate",
     "min_age": 20,
-    "max_age": 30,
-    "qualification": "graduate"
+    "max_age": 28
+  },
+  {
+    "name": "IBPS PO",
+    "qualification": "graduate",
+    "min_age": 20,
+    "max_age": 30
+  },
+  {
+    "name": "RBI Assistant",
+    "qualification": "graduate",
+    "min_age": 20,
+    "max_age": 28
+  },
+  {
+    "name": "NDA Exam",
+    "qualification": "12th",
+    "min_age": 16,
+    "max_age": 19
+  },
+  {
+    "name": "CDS Exam",
+    "qualification": "graduate",
+    "min_age": 19,
+    "max_age": 25
+  },
+  {
+    "name": "State PSC Exams",
+    "qualification": "graduate",
+    "min_age": 21,
+    "max_age": 35
+  },
+  {
+    "name": "Indian Forest Services (IFS)",
+    "qualification": "graduate",
+    "min_age": 21,
+    "max_age": 32
   },
   {
     "name": "GATE",
+    "qualification": "graduate",
     "min_age": 21,
-    "max_age": 30,
-    "qualification": "graduate"
+    "max_age": 30
   },
   {
-    "name": "UGC NET",
-    "min_age": 21,
-    "max_age": 35,
-    "qualification": "postgraduate"
+    "name": "NEET UG",
+    "qualification": "12th",
+    "min_age": 17,
+    "max_age": 25
+  },
+  {
+    "name": "JEE Main",
+    "qualification": "12th",
+    "min_age": 17,
+    "max_age": 25
   }
 ]
