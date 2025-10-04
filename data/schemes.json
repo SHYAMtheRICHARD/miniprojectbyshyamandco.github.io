@@ -28,17 +28,80 @@
     "category": "household"
   },
   {
-    "name": "Skill India Mission",
+    "name": "Ayushman Bharat Yojana",
     "gender": "any",
     "min_age": 18,
-    "max_age": 35,
-    "category": "student"
+    "max_age": 80,
+    "category": "health"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "gender": "female",
+    "min_age": 0,
+    "max_age": 18,
+    "category": "child"
   },
   {
     "name": "Stand Up India Scheme",
-    "gender": "female",
-    "min_age": 21,
-    "max_age": 55,
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 60,
     "category": "entrepreneur"
+  },
+  {
+    "name": "National Rural Health Mission",
+    "gender": "any",
+    "min_age": 0,
+    "max_age": 100,
+    "category": "health"
+  },
+  {
+    "name": "Janani Suraksha Yojana",
+    "gender": "female",
+    "min_age": 18,
+    "max_age": 45,
+    "category": "mother"
+  },
+  {
+    "name": "Skill India Mission",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 40,
+    "category": "student"
+  },
+  {
+    "name": "National Apprenticeship Training Scheme",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 30,
+    "category": "student"
+  },
+  {
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 35,
+    "category": "rural"
+  },
+  {
+    "name": "Indira Gandhi National Widow Pension Scheme",
+    "gender": "female",
+    "min_age": 40,
+    "max_age": 100,
+    "category": "widow"
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 40,
+    "category": "pension"
+  },
+  {
+    "name": "National Means-cum-Merit Scholarship",
+    "gender": "any",
+    "min_age": 12,
+    "max_age": 16,
+    "category": "student"
   }
 ]
