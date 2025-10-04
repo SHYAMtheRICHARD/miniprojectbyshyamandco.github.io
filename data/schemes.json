@@ -1,107 +1,51 @@
 [
-  {
-    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 60,
-    "category": "farmer"
-  },
-  {
-    "name": "Beti Bachao Beti Padhao",
-    "gender": "female",
-    "min_age": 0,
-    "max_age": 21,
-    "category": "child"
-  },
-  {
-    "name": "National Social Assistance Programme",
-    "gender": "any",
-    "min_age": 60,
-    "max_age": 100,
-    "category": "senior"
-  },
-  {
-    "name": "PM Ujjwala Yojana",
-    "gender": "female",
-    "min_age": 18,
-    "max_age": 60,
-    "category": "household"
-  },
-  {
-    "name": "Ayushman Bharat Yojana",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 80,
-    "category": "health"
-  },
-  {
-    "name": "Sukanya Samriddhi Yojana",
-    "gender": "female",
-    "min_age": 0,
-    "max_age": 18,
-    "category": "child"
-  },
-  {
-    "name": "Stand Up India Scheme",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 60,
-    "category": "entrepreneur"
-  },
-  {
-    "name": "National Rural Health Mission",
-    "gender": "any",
-    "min_age": 0,
-    "max_age": 100,
-    "category": "health"
-  },
-  {
-    "name": "Janani Suraksha Yojana",
-    "gender": "female",
-    "min_age": 18,
-    "max_age": 45,
-    "category": "mother"
-  },
-  {
-    "name": "Skill India Mission",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 40,
-    "category": "student"
-  },
-  {
-    "name": "National Apprenticeship Training Scheme",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 30,
-    "category": "student"
-  },
-  {
-    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 35,
-    "category": "rural"
-  },
-  {
-    "name": "Indira Gandhi National Widow Pension Scheme",
-    "gender": "female",
-    "min_age": 40,
-    "max_age": 100,
-    "category": "widow"
-  },
-  {
-    "name": "Atal Pension Yojana",
-    "gender": "any",
-    "min_age": 18,
-    "max_age": 40,
-    "category": "pension"
-  },
-  {
-    "name": "National Means-cum-Merit Scholarship",
-    "gender": "any",
-    "min_age": 12,
-    "max_age": 16,
-    "category": "student"
-  }
+  { "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)", "gender": "any", "min_age": 18, "max_age": 60, "category": "farmer" },
+  { "name": "Beti Bachao Beti Padhao", "gender": "female", "min_age": 0, "max_age": 21, "category": "child" },
+  { "name": "National Social Assistance Programme", "gender": "any", "min_age": 60, "max_age": 100, "category": "senior" },
+  { "name": "PM Ujjwala Yojana", "gender": "female", "min_age": 18, "max_age": 60, "category": "household" },
+  { "name": "Ayushman Bharat Yojana", "gender": "any", "min_age": 18, "max_age": 80, "category": "health" },
+  { "name": "Sukanya Samriddhi Yojana", "gender": "female", "min_age": 0, "max_age": 18, "category": "child" },
+  { "name": "Stand Up India Scheme", "gender": "any", "min_age": 18, "max_age": 60, "category": "entrepreneur" },
+  { "name": "National Rural Health Mission", "gender": "any", "min_age": 0, "max_age": 100, "category": "health" },
+  { "name": "Janani Suraksha Yojana", "gender": "female", "min_age": 18, "max_age": 45, "category": "mother" },
+  { "name": "Skill India Mission", "gender": "any", "min_age": 18, "max_age": 40, "category": "student" },
+  { "name": "National Apprenticeship Training Scheme", "gender": "any", "min_age": 18, "max_age": 30, "category": "student" },
+  { "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana", "gender": "any", "min_age": 18, "max_age": 35, "category": "rural" },
+  { "name": "Indira Gandhi National Widow Pension Scheme", "gender": "female", "min_age": 40, "max_age": 100, "category": "widow" },
+  { "name": "Atal Pension Yojana", "gender": "any", "min_age": 18, "max_age": 40, "category": "pension" },
+  { "name": "National Means-cum-Merit Scholarship", "gender": "any", "min_age": 12, "max_age": 16, "category": "student" },
+  { "name": "Digital India Internship Scheme", "gender": "any", "min_age": 18, "max_age": 30, "category": "student" },
+  { "name": "Pradhan Mantri Mudra Yojana (PMMY)", "gender": "any", "min_age": 18, "max_age": 60, "category": "entrepreneur" },
+  { "name": "National Handicapped Finance Scheme", "gender": "any", "min_age": 18, "max_age": 60, "category": "disabled" },
+  { "name": "Rajiv Gandhi National Fellowship", "gender": "any", "min_age": 21, "max_age": 35, "category": "student" },
+  { "name": "Prime Minister Rozgar Yojana", "gender": "any", "min_age": 18, "max_age": 40, "category": "employment" },
+  { "name": "Khelo India Scheme", "gender": "any", "min_age": 10, "max_age": 25, "category": "sports" },
+  { "name": "National Nutrition Mission", "gender": "any", "min_age": 0, "max_age": 60, "category": "nutrition" },
+  { "name": "Self Employment Scheme for Rehabilitation of Manual Scavengers", "gender": "any", "min_age": 18, "max_age": 55, "category": "social" },
+  { "name": "Indira Gandhi Matritva Sahyog Yojana", "gender": "female", "min_age": 18, "max_age": 45, "category": "mother" },
+  { "name": "Swachh Bharat Abhiyan", "gender": "any", "min_age": 10, "max_age": 80, "category": "cleanliness" },
+  { "name": "Housing for All (PMAY)", "gender": "any", "min_age": 18, "max_age": 70, "category": "housing" },
+  { "name": "National Fellowship for SC Students", "gender": "any", "min_age": 21, "max_age": 35, "category": "student" },
+  { "name": "Maulana Azad National Fellowship", "gender": "any", "min_age": 21, "max_age": 35, "category": "student" },
+  { "name": "National Scheme for Youth Employment", "gender": "any", "min_age": 18, "max_age": 35, "category": "employment" },
+  { "name": "Green India Mission", "gender": "any", "min_age": 15, "max_age": 60, "category": "environment" },
+  { "name": "PMSVANidhi Scheme", "gender": "any", "min_age": 18, "max_age": 60, "category": "business" },
+  { "name": "MGNREGA", "gender": "any", "min_age": 18, "max_age": 60, "category": "employment" },
+  { "name": "National Old Age Pension Scheme", "gender": "any", "min_age": 60, "max_age": 100, "category": "pension" },
+  { "name": "Pradhan Mantri Suraksha Bima Yojana", "gender": "any", "min_age": 18, "max_age": 70, "category": "insurance" },
+  { "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana", "gender": "any", "min_age": 18, "max_age": 50, "category": "insurance" },
+  { "name": "National Health Protection Mission", "gender": "any", "min_age": 18, "max_age": 80, "category": "health" },
+  { "name": "National Scholarship Scheme for Minorities", "gender": "any", "min_age": 10, "max_age": 25, "category": "student" },
+  { "name": "Pradhan Mantri Gram Sadak Yojana", "gender": "any", "min_age": 18, "max_age": 60, "category": "rural" },
+  { "name": "Startup India", "gender": "any", "min_age": 18, "max_age": 40, "category": "entrepreneur" },
+  { "name": "Make in India Support Scheme", "gender": "any", "min_age": 18, "max_age": 40, "category": "entrepreneur" },
+  { "name": "Pradhan Mantri Awas Yojana (Gramin)", "gender": "any", "min_age": 18, "max_age": 70, "category": "housing" },
+  { "name": "National Mission on Education through ICT", "gender": "any", "min_age": 18, "max_age": 30, "category": "student" },
+  { "name": "Digital Saksharta Abhiyan", "gender": "any", "min_age": 12, "max_age": 60, "category": "digital" },
+  { "name": "Samagra Shiksha Abhiyan", "gender": "any", "min_age": 6, "max_age": 18, "category": "student" },
+  { "name": "Right to Education Scheme", "gender": "any", "min_age": 6, "max_age": 14, "category": "student" },
+  { "name": "Mid Day Meal Scheme", "gender": "any", "min_age": 6, "max_age": 14, "category": "student" },
+  { "name": "Integrated Child Development Scheme", "gender": "any", "min_age": 0, "max_age": 6, "category": "child" },
+  { "name": "National Rural Livelihood Mission", "gender": "any", "min_age": 18, "max_age": 60, "category": "rural" },
+  { "name": "Swarnajayanti Gram Swarozgar Yojana", "gender": "any", "min_age": 18, "max_age": 60, "category": "rural" }
 ]
