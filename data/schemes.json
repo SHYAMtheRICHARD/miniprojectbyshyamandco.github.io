@@ -28,17 +28,59 @@
     "category": "household"
   },
   {
-    "name": "Skill India Mission",
+    "name": "Pradhan Mantri Jan Dhan Yojana",
     "gender": "any",
     "min_age": 18,
-    "max_age": 35,
-    "category": "student"
+    "max_age": 100,
+    "category": "finance"
+  },
+  {
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana",
+    "gender": "any",
+    "min_age": 0,
+    "max_age": 100,
+    "category": "health"
+  },
+  {
+    "name": "PM Awas Yojana – Housing for All",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 80,
+    "category": "housing"
   },
   {
     "name": "Stand Up India Scheme",
-    "gender": "female",
+    "gender": "any",
     "min_age": 21,
     "max_age": 55,
-    "category": "entrepreneur"
+    "category": "entrepreneurship"
+  },
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 65,
+    "category": "finance"
+  },
+  {
+    "name": "National Apprenticeship Promotion Scheme",
+    "gender": "any",
+    "min_age": 16,
+    "max_age": 35,
+    "category": "skill"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "gender": "female",
+    "min_age": 0,
+    "max_age": 10,
+    "category": "child"
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "gender": "any",
+    "min_age": 18,
+    "max_age": 40,
+    "category": "pension"
   }
 ]
